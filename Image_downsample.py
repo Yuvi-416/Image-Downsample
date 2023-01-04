@@ -1,4 +1,4 @@
-# Code to down sample series of dicom and tif image using Pydicom and rasterio library
+# Code to down sample series of dicom and tif image using Pydicom and Rasterio library
 
 import os
 import pydicom
